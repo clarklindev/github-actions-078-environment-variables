@@ -6,7 +6,7 @@ on:
       - main
       - dev
 env:
-  MONGODB_DB_NAME: githubactions-demo
+  MONGODB_DB_NAME: githubactions
 jobs:
   test:
     env:
