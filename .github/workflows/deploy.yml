@@ -10,9 +10,9 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: cluster0.1245gdf.mongodb.net
-      MONGODB_USERNAME: clark.cookie
-      MONGODB_PASSWORD: sdfsdf@E$$#@%vvv
+      MONGODB_CLUSTER_ADDRESS: cluster0.ocsr7qk.mongodb.net
+      MONGODB_USERNAME: clarkcookie
+      MONGODB_PASSWORD: us17l4JgfQuMDgaq
       PORT: 8080
     environment: testing
     runs-on: ubuntu-latest
